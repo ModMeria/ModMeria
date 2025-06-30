@@ -1,0 +1,9 @@
+[submodule "ModLoader"]
+	path = ModLoader
+	url = https://github.com/ModMeria/ModLoader.git
+[submodule "ModAPI.Core"]
+	path = ModAPI.Core
+	url = https://github.com/ModMeria/ModAPI.Core.git
+[submodule "ModAPI.Abstractions"]
+	path = ModAPI.Abstractions
+	url = https://github.com/ModMeria/ModAPI.Abstractions.git
