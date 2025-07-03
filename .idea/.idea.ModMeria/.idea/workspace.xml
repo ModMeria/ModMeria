@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Core" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ModLoader" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModLoader/ModLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader/ModLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModLoader/ModLoader.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader/ModLoader.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModAPI.Core" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModLoader" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/4a/d161ecf2/RecipeEntry.cs" root0="FORCE_HIGHLIGHTING" />
@@ -63,7 +64,8 @@
       <workItem from="1751269683730" duration="3328000" />
       <workItem from="1751360419988" duration="706000" />
       <workItem from="1751371289166" duration="3520000" />
-      <workItem from="1751538373789" duration="2325000" />
+      <workItem from="1751538373789" duration="2637000" />
+      <workItem from="1751541974392" duration="4736000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
