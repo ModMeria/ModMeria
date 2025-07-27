@@ -4,33 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Config/IItemConfig.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModAPI.Core/Config/ItemConfig.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModAPI.Core/Registry/Items/ItemRegistry.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModAPI.Core/Registry/Textures/TextureRegistry.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModAPI.Core/Rendering/ItemRenderPatcher.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Config/ItemConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/IModApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/IModApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Items/ModItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Items/ModItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/ModAPI.Abstractions.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/ModAPI.Abstractions.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Registry/IRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Registry/IRegistry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Registry/Items/IItemRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Registry/Items/IItemRegistry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Core" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Core/ModAPI.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core/ModAPI.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Core/ModAPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core/ModAPI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModLoader" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModLoader/ModLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader/ModLoader.cs" afterDir="false" />
-    </list>
+    <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModLoader" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModAPI.Abstractions" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/4a/d161ecf2/RecipeEntry.cs" root0="FORCE_HIGHLIGHTING" />
@@ -62,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/luka/Documents/Allumeria/example-mod/ExampleMod.sln",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luka/Documents/Allumeria/example-mod/ExampleMod.sln&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="" />
@@ -95,6 +76,7 @@
       <workItem from="1753212135414" duration="884000" />
       <workItem from="1753216304378" duration="9561000" />
       <workItem from="1753618716179" duration="2240000" />
+      <workItem from="1753622660102" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
@@ -104,7 +86,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751263651100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Revert to normal ItemConfig">
+      <option name="closed" value="true" />
+      <created>1753622766768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753622766768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update references">
+      <option name="closed" value="true" />
+      <created>1753622776792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753622776792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +113,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Fix namespace and infinite logging loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix namespace and infinite logging loop." />
+    <MESSAGE value="Revert to normal ItemConfig" />
+    <MESSAGE value="Update references" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update references" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
