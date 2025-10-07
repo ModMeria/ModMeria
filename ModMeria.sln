@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModAPI.Core", "ModAPI.Core\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModAPI.Abstractions", "ModAPI.Abstractions\ModAPI.Abstractions.csproj", "{DCFF4BAB-F790-4729-AB8F-BCC5CCE81AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModLoader", "ModLoader\ModLoader.csproj", "{DE199D9E-C086-43CF-8241-A43682A4F585}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "ModLoader\Loader.csproj", "{DE199D9E-C086-43CF-8241-A43682A4F585}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
