@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="" />
+    <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,8 +32,8 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/24ac88242be85d7d7d4928a2ef574a56476ace496e1aed99fecc73c172a64/Stream.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/27b28c8fc28075d657237a782054265e95a67d43eb3866a5997b8cf9e01382/Vector4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/59e69cdfed13efa8a6d7821335c5f5d1dd7e4dc2d09a23eec71b142e6f9967/Dictionary.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../0.7.2-decompiled/Items/ItemStack.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../0.7.2-decompiled/Rendering/TextureBatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/0.7.2-decompiled/Items/ItemStack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/0.7.2-decompiled/Rendering/TextureBatcher.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -43,21 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/luka/Documents/Allumeria/example-mod/ExampleMod.sln&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/luka/Documents/Allumeria/example-mod/ExampleMod.sln",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="" />
@@ -77,6 +85,7 @@
       <workItem from="1753216304378" duration="9561000" />
       <workItem from="1753618716179" duration="2240000" />
       <workItem from="1753622660102" duration="159000" />
+      <workItem from="1760696132508" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
