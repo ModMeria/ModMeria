@@ -73,7 +73,7 @@
       <workItem from="1753618716179" duration="2240000" />
       <workItem from="1753622660102" duration="159000" />
       <workItem from="1760696132508" duration="2545000" />
-      <workItem from="1760801645499" duration="1239000" />
+      <workItem from="1760801645499" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760696341374</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat(loader): implement mod loading">
+      <option name="closed" value="true" />
+      <created>1760802898409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760802898409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +140,8 @@
     <MESSAGE value="Revert to normal ItemConfig" />
     <MESSAGE value="Update references" />
     <MESSAGE value="fix(item): Fix ItemBuilder not working when accessed through IModApi" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix(item): Fix ItemBuilder not working when accessed through IModApi" />
+    <MESSAGE value="feat(loader): implement mod loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(loader): implement mod loading" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
