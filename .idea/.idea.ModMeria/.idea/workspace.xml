@@ -20,6 +20,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Luka/Documents/ModMeria/ModLoader/ModLoader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Luka/Documents/ModMeria/ModLoader/ModLoader.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -73,7 +74,7 @@
       <workItem from="1753618716179" duration="2240000" />
       <workItem from="1753622660102" duration="159000" />
       <workItem from="1760696132508" duration="2545000" />
-      <workItem from="1760801645499" duration="1558000" />
+      <workItem from="1760801645499" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
@@ -115,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760802898409</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix(loader): Call LoadMods() to actually load mods.">
+      <option name="closed" value="true" />
+      <created>1760803248255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760803248255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +150,8 @@
     <MESSAGE value="Update references" />
     <MESSAGE value="fix(item): Fix ItemBuilder not working when accessed through IModApi" />
     <MESSAGE value="feat(loader): implement mod loading" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(loader): implement mod loading" />
+    <MESSAGE value="fix(loader): Call LoadMods() to actually load mods." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(loader): Call LoadMods() to actually load mods." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
