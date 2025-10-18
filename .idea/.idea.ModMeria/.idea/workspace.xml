@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModLoader" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModLoader/ModLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader/ModLoader.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,24 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModAPI.Abstractions" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModLoader" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/4a/d161ecf2/RecipeEntry.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/5d/51e1614d/Texture.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/89/e8f8ead1/Item.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/8f/fd1b0dc7/InGameHUD.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/96/09c5093b/TextureBatcher.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/b6/d6e2c7ed/Drawing.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/be/1aa97b6a/CraftingStation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bc921bea3bff400aa9c5d3ff4f88fcf266a00/d8/7b55e7d2/ItemStack.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d0ab74da65a44ad79d822bb14bf228979800/89/0ae59f63/FileEntry.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/133c303f5f3427c7bffd4f401d236dd1f2cbd1e52838f2192d1cad1f3787/Attributes.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/24ac88242be85d7d7d4928a2ef574a56476ace496e1aed99fecc73c172a64/Stream.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/27b28c8fc28075d657237a782054265e95a67d43eb3866a5997b8cf9e01382/Vector4.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/59e69cdfed13efa8a6d7821335c5f5d1dd7e4dc2d09a23eec71b142e6f9967/Dictionary.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/0.7.2-decompiled/Items/ItemStack.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/0.7.2-decompiled/Rendering/TextureBatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Luka/Documents/ModMeria/ModLoader/ModLoader.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -48,24 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/luka/Documents/Allumeria/example-mod/ExampleMod.sln",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luka/Documents/Allumeria/example-mod/ExampleMod.sln&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="" />
@@ -85,7 +72,8 @@
       <workItem from="1753216304378" duration="9561000" />
       <workItem from="1753618716179" duration="2240000" />
       <workItem from="1753622660102" duration="159000" />
-      <workItem from="1760696132508" duration="176000" />
+      <workItem from="1760696132508" duration="2545000" />
+      <workItem from="1760801645499" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
@@ -111,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753622776792</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix(item): Fix ItemBuilder not working when accessed through IModApi">
+      <option name="closed" value="true" />
+      <created>1760696341374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760696341374</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,12 +115,24 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Fix namespace and infinite logging loop." />
     <MESSAGE value="Revert to normal ItemConfig" />
     <MESSAGE value="Update references" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update references" />
+    <MESSAGE value="fix(item): Fix ItemBuilder not working when accessed through IModApi" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(item): Fix ItemBuilder not working when accessed through IModApi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
