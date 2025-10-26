@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModAPI.Core" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModAPI.Abstractions" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -85,7 +86,7 @@
       <workItem from="1760801645499" duration="2053000" />
       <workItem from="1761478280155" duration="5038000" />
       <workItem from="1761464534450" duration="146000" />
-      <workItem from="1761481083045" duration="1065000" />
+      <workItem from="1761481083045" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
