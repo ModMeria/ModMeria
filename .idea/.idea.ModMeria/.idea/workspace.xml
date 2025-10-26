@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c1e9b5-bd7f-46b4-8fd5-1798b73a7777" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ModLoader/ModLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModLoader/ModLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Registries/ITextureRegistry.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Textures/ModTexture.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModAPI.Core/Helpers/AtlasHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModAPI.Core/Registries/TextureRegistry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModMeria/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Registries/IItemRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Registries/IItemRegistry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Registries/IRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Registries/IRegistry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Abstractions/Registries/ITranslationRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Abstractions/Registries/ITranslationRegistry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Core" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Core/ModAPI.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core/ModAPI.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Core/ModAPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core/ModAPI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Core/Registries/ItemRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core/Registries/ItemRegistry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModAPI.Core/Registries/TranslationRegistry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ModAPI.Core/Registries/TranslationRegistry.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +26,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModLoader" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ModAPI.Core" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4f74b77d6ef54bca81d63aac1574ed9898000/0d/c7dc3bff/Texture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4f74b77d6ef54bca81d63aac1574ed9898000/d4/cd918f98/Item.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModAPI.Abstractions/Builders/ItemBuilder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Luka/Documents/ModMeria/ModLoader/ModLoader.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Luka/Documents/ModMeria/ModLoader/ModLoader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModAPI.Abstractions/Registries/ITextureRegistry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModAPI.Abstractions/Textures/ModTexture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModAPI.Core/Helpers/AtlasHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModAPI.Core/Registries/TextureRegistry.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -72,7 +90,9 @@
       <workItem from="1753618716179" duration="2240000" />
       <workItem from="1753622660102" duration="159000" />
       <workItem from="1760696132508" duration="2545000" />
-      <workItem from="1760801645499" duration="1704000" />
+      <workItem from="1760801645499" duration="2053000" />
+      <workItem from="1761478280155" duration="5038000" />
+      <workItem from="1761464534450" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="Fix namespace and infinite logging loop.">
       <option name="closed" value="true" />
@@ -130,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760803349951</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix(logging): Use Logger instead of Console.WriteLine">
+      <option name="closed" value="true" />
+      <created>1760803370012</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760803370012</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
